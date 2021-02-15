@@ -1,0 +1,22 @@
+.App {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.App h2 {
+    text-align: center;
+    font-weight: 500;
+}
+
+ol {
+    padding-inline-start: 0;
+}
+
+li::marker, .username {
+    color: #CCCCCC;
+    font-size: 10pt;
+}
+
+::placeholder {
+    color: #CCCCCC;
+}
